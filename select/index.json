@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Without Me",
+  "base_artist": "Halsey",
+  "createdAt": "2026-03-03T14:01:28.920725Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Can't Do Without Me",
+      "artist": "Chayce Beckham",
+      "has_synced": true,
+      "path": "select/01_Can't_Do_Without_Me_Chayce_Beckham.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Can't Do Without Me",
+      "artist": "Chayce Beckham",
+      "has_synced": true,
+      "path": "select/02_Can't_Do_Without_Me_Chayce_Beckham.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Without Me",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/03_Without_Me_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Without Me - Instrumental",
+      "artist": "Mac DeMarco",
+      "has_synced": false,
+      "path": "select/04_Without_Me_-_Instrumental_Mac_DeMarco.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Without Me",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/05_Without_Me_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Can't Imagine The World Without Me",
+      "artist": "Echobelly",
+      "has_synced": false,
+      "path": "select/06_I_Can't_Imagine_The_World_Without_Me_Echobelly.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You're Nothing Without Me",
+      "artist": "Belinda Carlisle",
+      "has_synced": false,
+      "path": "select/07_You're_Nothing_Without_Me_Belinda_Carlisle.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You're Nothing Without Me",
+      "artist": "Belinda Carlisle",
+      "has_synced": true,
+      "path": "select/08_You're_Nothing_Without_Me_Belinda_Carlisle.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You've Learned To Live Without Me",
+      "artist": "Sheena Easton",
+      "has_synced": true,
+      "path": "select/09_You've_Learned_To_Live_Without_Me_Sheena_Easton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Somewhere Without Me",
+      "artist": "Alien Boy",
+      "has_synced": true,
+      "path": "select/10_Somewhere_Without_Me_Alien_Boy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Go Home Without Me",
+      "artist": "Lights",
+      "has_synced": true,
+      "path": "select/11_Don't_Go_Home_Without_Me_Lights.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don’t Go Home Without Me",
+      "artist": "Lights",
+      "has_synced": true,
+      "path": "select/12_Don’t_Go_Home_Without_Me_Lights.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Another Year Without Me",
+      "artist": "The Notwist",
+      "has_synced": false,
+      "path": "select/13_Another_Year_Without_Me_The_Notwist.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Threw a Brick Through a Window/A Day Without Me (Live from Werchter, Belgium July 1982)",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/14_I_Threw_a_Brick_Through_a_Window_A_Day_Without_Me_(Live_from_Werchter,_Belgium_J_U2.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Threw a Brick Through a Window ⁄ A Day Without Me (live)",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/15_I_Threw_a_Brick_Through_a_Window_⁄_A_Day_Without_Me_(live)_U2.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Day Without Me",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/16_A_Day_Without_Me_U2.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don't Go to Sleep Without Me",
+      "artist": "The Creatures",
+      "has_synced": true,
+      "path": "select/17_Don't_Go_to_Sleep_Without_Me_The_Creatures.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Everyone In the World Is Doing Something Without Me",
+      "artist": "The Future Sound of London",
+      "has_synced": false,
+      "path": "select/18_Everyone_In_the_World_Is_Doing_Something_Without_Me_The_Future_Sound_of_London.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Without Me",
+      "artist": "Gucci Mane",
+      "has_synced": true,
+      "path": "select/19_Without_Me_Gucci_Mane.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Without Me",
+      "artist": "Halsey",
+      "has_synced": false,
+      "path": "select/pl_01_Without_Me_Halsey.txt"
+    }
+  ]
+}
